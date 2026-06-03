@@ -217,4 +217,4 @@ Implementing the Modern 4-Layer Infrastructure Model yields significant structur
 
 ---
 
-*© 2026 Dennis. Published for open academic and professional use. If you build on or reference this model, citation is appreciated.*
+*© 2026 Dennis D. Published for open academic and professional use. If you build on or reference this model, citation is appreciated.*
