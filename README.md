@@ -1,12 +1,6 @@
 # The Modern 4-Layer Infrastructure Model
 ### A Practical Operational Reference Model for Cloud, Virtualization, and AI-Native Fabrics
 
-> **Author:** Dennis  
-> **Status:** Publication-ready proposal  
-> **Target venues:** ACM Queue, USENIX ;login:
-
----
-
 ## Abstract
 
 For over four decades, the 7-layer OSI model and the 4-layer TCP/IP model have served as the bedrock of networking education and professional systems engineering. However, these frameworks assume a static, physical hardware architecture and a linear, sequential processing stack.
